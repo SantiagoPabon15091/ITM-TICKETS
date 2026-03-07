@@ -1,0 +1,25 @@
+@Itm.Event.Api_HostAddress = http://localhost:5201
+
+### GET evento por ID
+GET {{Itm.Event.Api_HostAddress}}/api/events/1
+Accept: application/json
+
+###
+### Reservar sillas
+POST {{Itm.Event.Api_HostAddress}}/api/events/reserve
+Content-Type: application/json
+
+{
+  "eventId": 1,
+  "quantity": 2
+}
+
+###
+### Liberar sillas (compensación)
+POST {{Itm.Event.Api_HostAddress}}/api/events/release
+Content-Type: application/json
+
+{
+  "eventId": 1,
+  "quantity": 2
+}

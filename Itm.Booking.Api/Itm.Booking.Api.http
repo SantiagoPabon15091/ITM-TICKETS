@@ -1,0 +1,10 @@
+@Itm.Booking.Api_HostAddress = http://localhost:5203
+
+POST {{Itm.Booking.Api_HostAddress}}/api/bookings
+Content-Type: application/json
+
+{
+  "eventId": 1,
+  "tickets": 2,
+  "discountCode": "ITM50"
+}
