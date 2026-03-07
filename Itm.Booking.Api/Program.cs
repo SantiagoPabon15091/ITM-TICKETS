@@ -52,7 +52,7 @@ app.MapPost("/api/bookings", async (BookingRequest request, IHttpClientFactory f
         return Results.BadRequest("El evento no existe o no está disponible.");
 
     if (!discountResponse.IsSuccessStatusCode)
-        return Results.NotFound("Código de descuento no válido o no existe.");
+        return Results.NotFound("No se encontró el código.");
 
     var eventData = await eventResponse.Content.ReadFromJsonAsync<EventDto>();
     var discountData = await discountResponse.Content.ReadFromJsonAsync<DiscountDto>();

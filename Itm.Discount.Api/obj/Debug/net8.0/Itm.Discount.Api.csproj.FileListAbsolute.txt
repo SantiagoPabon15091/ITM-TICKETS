@@ -34,3 +34,4 @@ C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\
 C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\Itm.Discount.Api\obj\Debug\net8.0\Itm.Discount.Api.pdb
 C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\Itm.Discount.Api\obj\Debug\net8.0\Itm.Discount.Api.genruntimeconfig.cache
 C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\Itm.Discount.Api\obj\Debug\net8.0\ref\Itm.Discount.Api.dll
+C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\Itm.Discount.Api\obj\Debug\net8.0\Itm.Discount.Api.sourcelink.json

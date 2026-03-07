@@ -58,3 +58,4 @@ C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\
 C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\Itm.Booking.Api\obj\Debug\net8.0\Itm.Booking.Api.pdb
 C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\Itm.Booking.Api\obj\Debug\net8.0\Itm.Booking.Api.genruntimeconfig.cache
 C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\Itm.Booking.Api\obj\Debug\net8.0\ref\Itm.Booking.Api.dll
+C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\Itm.Booking.Api\obj\Debug\net8.0\Itm.Booking.Api.sourcelink.json

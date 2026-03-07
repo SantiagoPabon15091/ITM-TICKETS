@@ -34,3 +34,4 @@ C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\
 C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\Itm.Event.Api\obj\Debug\net8.0\Itm.Event.Api.pdb
 C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\Itm.Event.Api\obj\Debug\net8.0\Itm.Event.Api.genruntimeconfig.cache
 C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\Itm.Event.Api\obj\Debug\net8.0\ref\Itm.Event.Api.dll
+C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\Itm.Event.Api\obj\Debug\net8.0\Itm.Event.Api.sourcelink.json

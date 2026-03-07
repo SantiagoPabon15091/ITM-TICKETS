@@ -24,7 +24,7 @@ var discountsDb = new Dictionary<string, decimal>(StringComparer.OrdinalIgnoreCa
 app.MapGet("/api/discounts/{code}", (string code) =>
 {
     if (!discountsDb.TryGetValue(code, out var percentage))
-        return Results.NotFound();
+        return Results.NotFound(new { message = "No se encontró el código." });
 
     var dto = new DiscountDto(percentage);
     return Results.Ok(dto);
