@@ -32,7 +32,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 
 // POST /api/bookings — Patrón SAGA
 app.MapPost("/api/bookings", async (BookingRequest request, IHttpClientFactory factory) =>

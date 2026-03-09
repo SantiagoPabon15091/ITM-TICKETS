@@ -35,3 +35,40 @@ C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\
 C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\Itm.Discount.Api\obj\Debug\net8.0\Itm.Discount.Api.genruntimeconfig.cache
 C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\Itm.Discount.Api\obj\Debug\net8.0\ref\Itm.Discount.Api.dll
 C:\Users\SantiagoPabon\Documents\INGENIERIA\PROGRAMACIÓN DISTRIBUIDA\ENTREGA 1\Itm.Discount.Api\obj\Debug\net8.0\Itm.Discount.Api.sourcelink.json
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\bin\Debug\net8.0\Itm.Discount.Api.staticwebassets.endpoints.json
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\bin\Debug\net8.0\Itm.Discount.Api.exe
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\bin\Debug\net8.0\Itm.Discount.Api.deps.json
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\bin\Debug\net8.0\Itm.Discount.Api.runtimeconfig.json
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\bin\Debug\net8.0\Itm.Discount.Api.dll
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\bin\Debug\net8.0\Itm.Discount.Api.pdb
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\Itm.Discount.Api.csproj.AssemblyReference.cache
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\Itm.Discount.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\Itm.Discount.Api.AssemblyInfoInputs.cache
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\Itm.Discount.Api.AssemblyInfo.cs
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\Itm.Discount.Api.csproj.CoreCompileInputs.cache
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\Itm.Discount.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\Itm.Discount.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\Itm.Discount.Api.sourcelink.json
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\scopedcss\bundle\Itm.Discount.Api.styles.css
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\Itm.Disc.A2246A8A.Up2Date
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\Itm.Discount.Api.dll
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\refint\Itm.Discount.Api.dll
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\Itm.Discount.Api.pdb
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\Itm.Discount.Api.genruntimeconfig.cache
+C:\Users\villa\Desktop\Parcial 1 Programacion distribuida\ITM-TICKETS\Itm.Discount.Api\obj\Debug\net8.0\ref\Itm.Discount.Api.dll
