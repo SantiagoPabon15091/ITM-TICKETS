@@ -10,5 +10,6 @@ Para esto se utilizan conceptos de programación distribuida, resiliencia y el p
 
 Elaborado Por
 
-Santiago Villada Arboleda
+Santiago Villada Arboleda y
 Santiago Pabón Acevedo
+
