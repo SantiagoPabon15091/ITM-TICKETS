@@ -7,3 +7,8 @@ El sistema está diseñado para soportar múltiples usuarios comprando al mismo 
 - caídas del sistema ante muchas solicitudes
 
 Para esto se utilizan conceptos de programación distribuida, resiliencia y el patrón SAGA.
+
+Elaborado Por
+
+Santiago Villada Arboleda
+Santiago Pabón Acevedo
